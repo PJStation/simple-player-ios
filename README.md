@@ -9,9 +9,13 @@
 
 [如何编译？](https://www.jianshu.com/p/4b832101f12b)
 
-[编译好的ffmpeg3.4.2百度网盘](https://pan.baidu.com/s/1trrry0P4K13eXPac7lq0XQ)
+[编译好的ffmpeg3.4.2静态库网盘下载](https://pan.baidu.com/s/1trrry0P4K13eXPac7lq0XQ)
 
 [编译好的SDL2](https://gitee.com/PJStation/SDL2)
+
+[ffmpeg3.4.2源码网盘下载](https://pan.baidu.com/s/102HdfRKqessW1a_FNgsuBg)
+
+
 
 
 
