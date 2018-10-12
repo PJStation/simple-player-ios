@@ -15,6 +15,11 @@
 
 [ffmpeg3.4.2源码网盘下载](https://pan.baidu.com/s/102HdfRKqessW1a_FNgsuBg)
 
+# 参考学习
+
+- [ijkplayer](https://github.com/Bilibili/ijkplayer)
+- [SGPlayer](https://github.com/libobjc/SGPlayer)
+- [kxmovie](https://github.com/kolyvan/kxmovie)
 
 
 
