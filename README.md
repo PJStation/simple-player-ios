@@ -7,7 +7,7 @@
 
 项目中缺少的FFmpeg-iOS文件，请自行编译添加，添加后记得配置好路径。
 
-[如何编译？](https://www.jianshu.com/p/4b832101f12b)
+[如何编译ffmpeg？](https://www.jianshu.com/p/4b832101f12b)
 
 [编译好的ffmpeg3.4.2静态库网盘下载](https://pan.baidu.com/s/1trrry0P4K13eXPac7lq0XQ)
 
